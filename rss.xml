@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[HonkyTonkTankers]]></title>
         <description><![CDATA[HonkyTonkTankers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/honkytonktankers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 15:51:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 16:12:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/honkytonktankers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Clan Tonkx 's Website</p>]]></description>
-            <link>undefined83a975c7-7b27-48f0-a352-f29f3d56e257/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0544c52-1f44-4f63-9ee6-59fe85079a6b.tif">]]></description>
+            <link>https://thegrid.ai/honkytonktankers/83a975c7-7b27-48f0-a352-f29f3d56e257/index.html</link>
             <guid isPermaLink="false">83a975c7-7b27-48f0-a352-f29f3d56e257</guid>
-            <pubDate>Tue, 15 Mar 2016 15:51:19 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 16:10:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
